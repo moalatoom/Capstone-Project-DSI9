@@ -1,4 +1,4 @@
-# Satellite_Imagery_Python
+# Satellite Imagery Python
 Capstone project for DSI9 General Assembly.
 
 Sample scripts and notebooks on processing satellite imagery over Jordan, Palestine and the dead sea.
@@ -20,11 +20,11 @@ Conclusions: Shadows in images induced some bias. arial images taken by drones a
 
 ## Image preparation 
 
-The document contains all the required steps to crop a small portion of  the full spatial image to be ablow to work with limited resources.
+The document contains all the required steps to crop a small portion of  the full spatial image to be able to work with limited resources.
 
-two different satellite imagery was used with different resolutions.
+two different satellite imagery types were used with different resolutions.
 
 
 ## Capstone Project - Building k-means clustering model
 
-The Capstone document contains all the steps starting with the cropped images to developing a model.
+The Capstone document contains all the steps starting from the cropped images to model development.
